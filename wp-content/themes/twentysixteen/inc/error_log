@@ -1,0 +1,4 @@
+[30-Oct-2018 20:28:30 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/txtabout/public_html/txtaboutit/wp-content/themes/twentysixteen/inc/template-tags.php on line 169
+[03-Nov-2018 19:38:41 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/txtabout/public_html/txtaboutit/wp-content/themes/twentysixteen/inc/customizer.php on line 61
+[11-Jun-2019 19:41:48 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/txtabout/public_html/txtaboutit/wp-content/themes/twentysixteen/inc/template-tags.php on line 169
+[11-Jun-2019 20:28:50 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/txtabout/public_html/txtaboutit/wp-content/themes/twentysixteen/inc/customizer.php on line 61

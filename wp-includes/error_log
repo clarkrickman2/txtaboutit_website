@@ -1,0 +1,11 @@
+[08-Feb-2017 19:51:14 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/txtabout/public_html/txtaboutit/wp-includes/session.php on line 8
+[23-Feb-2017 05:20:40 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/txtabout/public_html/txtaboutit/wp-includes/session.php on line 8
+[06-May-2017 15:14:08 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/txtabout/public_html/txtaboutit/wp-includes/rss-functions.php on line 8
+[06-May-2017 15:14:08 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/txtabout/public_html/txtaboutit/wp-includes/rss-functions.php on line 8
+[06-May-2017 15:14:08 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/txtabout/public_html/txtaboutit/wp-includes/rss-functions.php on line 8
+[27-Nov-2017 17:38:21 UTC] PHP Fatal error:  Class 'Walker' not found in /home/txtabout/public_html/txtaboutit/wp-includes/class-walker-nav-menu.php on line 17
+[14-Mar-2018 20:59:33 UTC] PHP Fatal error:  Class 'Walker' not found in /home/txtabout/public_html/txtaboutit/wp-includes/class-walker-nav-menu.php on line 17
+[01-Feb-2019 07:39:05 UTC] PHP Fatal error:  Class 'Walker' not found in /home/txtabout/public_html/txtaboutit/wp-includes/class-walker-nav-menu.php on line 17
+[27-Feb-2019 12:40:23 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/txtabout/public_html/txtaboutit/wp-includes/locale.php on line 10
+[20-Mar-2020 05:15:25 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/txtabout/public_html/txtaboutit/wp-includes/locale.php on line 10
+[20-Mar-2020 09:30:48 UTC] PHP Fatal error:  Class 'Walker' not found in /home/txtabout/public_html/txtaboutit/wp-includes/class-walker-nav-menu.php on line 17

@@ -1,0 +1,2 @@
+[13-Feb-2018 10:08:30 UTC] PHP Fatal error:  Call to undefined function post_class() in /home/txtabout/public_html/txtaboutit/wp-includes/theme-compat/embed-content.php on line 13
+[13-Feb-2018 10:08:31 UTC] PHP Fatal error:  Call to undefined function post_class() in /home/txtabout/public_html/txtaboutit/wp-includes/theme-compat/embed-content.php on line 13

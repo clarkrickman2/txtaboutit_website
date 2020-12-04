@@ -1,0 +1,7 @@
+[26-Oct-2018 01:25:15 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/txtabout/public_html/txtaboutit/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 05:16:14 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/txtabout/public_html/txtaboutit/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 09:33:50 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/txtabout/public_html/txtaboutit/wp-content/themes/twentyfifteen/inc/customizer.php on line 83
+[26-Oct-2018 10:50:42 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/txtabout/public_html/txtaboutit/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 14:18:34 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/txtabout/public_html/txtaboutit/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171
+[09-Nov-2018 10:58:55 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/txtabout/public_html/txtaboutit/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[09-Nov-2018 13:55:53 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/txtabout/public_html/txtaboutit/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171

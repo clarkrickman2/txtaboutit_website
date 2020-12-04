@@ -1,0 +1,2 @@
+[26-Nov-2017 05:42:59 UTC] PHP Fatal error:  Call to undefined function __() in /home/txtabout/public_html/txtaboutit/wp-admin/user/menu.php on line 10
+[26-Nov-2017 05:44:30 UTC] PHP Fatal error:  Call to undefined function __() in /home/txtabout/public_html/txtaboutit/wp-admin/user/menu.php on line 10

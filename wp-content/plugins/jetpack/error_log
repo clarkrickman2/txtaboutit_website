@@ -1,0 +1,1 @@
+[01-May-2020 23:59:25 UTC] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/txtabout/public_html/txtaboutit/wp-content/plugins/jetpack/jetpack.php on line 20
